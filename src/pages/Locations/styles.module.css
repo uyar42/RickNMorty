@@ -1,0 +1,33 @@
+.link {
+  text-decoration: none;
+  color: brown;
+}
+
+.link:hover {
+  color: rgb(180, 68, 68);
+}
+
+.link:visited {
+  text-decoration: none;
+  /* color: brown; */
+}
+
+.link:active {
+  color: #fb646799;
+}
+.button {
+  margin: 6%;
+  padding: 1.8%;
+  background-color: rgb(49, 99, 99);
+  color: white;
+  border: 2px solid black;
+  box-shadow: 2px 2px 2px black;
+}
+
+.button:active {
+  box-shadow: 0.5px 0.5px 2px rgb(26, 54, 54);
+}
+
+.div {
+  text-align: center;
+}

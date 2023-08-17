@@ -1,0 +1,12 @@
+.div1 {
+  /* width: 100%; */
+  text-align: center;
+
+  height: 100vh;
+}
+
+.p {
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  margin: 2%;
+}
